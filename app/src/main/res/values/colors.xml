@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="pink">#EC008C</color>
+
+    <color name="Trans">#01000000</color>
+
+    <color name="White">#FFFFFF</color>
+    <color name="LLightGray">#E9E9E9</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="Gray">#808080</color>
+    <color name="LightGray">#D3D3D3</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Dimgrey">#696969</color>
+    <color name="Lightslategray">#778899</color>
+    <color name="Slategrey">#708090</color>
+    <color name="Darkslategrey">#2F4F4F</color>
+    <color name="Black">#000000</color>
+
+    <color name="Aliceblue">#F0F8FF</color>
+    <color name="Lavender">#E6E6FA</color>
+    <color name="Powderblue">#B0E0E6</color>
+    <color name="Lightblue">#ADD8E6</color>
+    <color name="Lightskyblue">#87CEFA</color>
+    <color name="Skyblue">#87CEEB</color>
+    <color name="Deepskyblue">#00BFFF</color>
+    <color name="Lightsteelblue">#B0C4DE</color>
+    <color name="Dodgerblue">#1E90FF</color>
+    <color name="Cornflowerblue">#6495ED</color>
+    <color name="Steelblue">#4682B4</color>
+    <color name="Cadetblue">#5F9EA0</color>
+    <color name="Mediumslateblue">#7B68EE</color>
+    <color name="Slateblue">#6A5ACD</color>
+    <color name="Darkslateblue">#483D8B</color>
+    <color name="Royalblue">#4169E1</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Mediumblue">#0000CD</color>
+    <color name="Darkblue">#00008B</color>
+    <color name="Navy">#000080</color>
+    <color name="Midnightblue">#191970</color>
+    <color name="Blueviolet">#8A2BE2</color>
+    <color name="Indigo">#4B0082</color>
+
+
+    <color name="Lightsalmon">#FFA07A</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="Darksalmon">#E9967A</color>
+    <color name="Lightcoral">#F08080</color>
+    <color name="Indianred">#CD5C5C</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Firebrick">#B22222</color>
+    <color name="Red">#FF0000</color>
+    <color name="Darkred">#8B0000</color>
+
+    <color name="Coral">#FF7F50</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="Orangered">#FF4500</color>
+    <color name="Gold">#FFD700</color>
+    <color name="Orange">#FFA500</color>
+    <color name="Darkorange">#FF8C00</color>
+    <color name="DichromacyYellow">#FFF7DC</color>
+
+    <color name="Lightgreen">#008577</color>
+    <color name="Shapgreen">#00574B</color>
+    <color name="Green">#00FF00</color>
+    <color name="Yellow">#FFFF00</color>
+
+    <color name="StatusBg">#100538</color>
+    <color name="HeaderBg">#33A8FF</color>
+    <color name="BttonColor">#024a6f</color>
+    <color name="borderColor">#1c908f</color>
+    <color name="clickhereColor">#42bfff</color>
+    <color name="bottomGlow">#bca9ff</color>
+    <color name="cobultBlue">#007bd8</color>
+
+    <color name="Textcolor">#333333</color>
+    <color name="logocolor_light">#00599b</color>
+    <color name="logocolor_dark">#2e3192</color>
+
+</resources>

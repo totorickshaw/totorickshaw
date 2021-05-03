@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TotoRickshaw</string>
+    <string name="logo_name">TOTORICKSHAW</string>
+    <string name="tag_line_up">ভাড়া নিয়ে করিনা আমরা দরা দরি!!!</string>
+    <string name="tag_line_down">দায়িত্ব নিয়ে বলছি পৌঁছে দেবো আপনার বাড়ি!!!</string>
+
+    <string name="home_menu">Home</string>
+    <string name="wallet_menu">Wallet</string>
+    <string name="transac_menu">Transaction</string>
+    <string name="order_menu">Order</string>
+
+    <string name="login_name">D r i v e r  L o g i n</string>
+    <string name="btn_value">L O G I N</string>
+    <string name="reg_text">Do not have an account?</string>
+    <string name="reg_string">Register Now</string>
+
+    <string name="reg_name">D r i v e r  R e g i s t r a t i o n</string>
+    <string name="reg_btn_value">R E G I S T E R</string>
+    <string name="log_text">Have an account?</string>
+    <string name="log_string">Login Now</string>
+
+    <string name="wallet_title">Wallet</string>
+
+    <string name="google_maps_api_key">AIzaSyCb8GzJymp9DFj_D1nILh840nVdGiRJ5Qg</string>
+
+</resources>
